@@ -1,0 +1,8 @@
+---
+IMPORTANTE!
+---
+
+
+*   Existen problemas con la libreria "from test_helper import Test", esto debido a que puede que el archivo se envuentre con versiones anteriores.
+
+*   Los complementos a completar concuerdan con los conjuntos de resultados a comparar, por tanto las implementaciones se encuentran bien, en este caso el problema viene de la libreria test helper.
